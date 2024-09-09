@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
 <h3 align="center">I am passionate Web Developer & Designer from Nepal</h3>
-<img align="right" alt="code-image" width="400" src="https://user-     images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="code-image" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu123&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu123&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashtharu123" alt="akashtharu123" /></a> </p>
 
