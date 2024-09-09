@@ -1,3 +1,4 @@
+ ![logo] (https://github.com/akashtharu02/akashtharu02/blob/main/bg.jpghttps://github.com/akashtharu02/akashtharu02/blob/main/bg.jpg)
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
 <h3 align="center">I am passionate Web Developer & Designer from Nepal</h3>
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"><img align="right" alt="code-image" width="400" src="https://user-     images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
