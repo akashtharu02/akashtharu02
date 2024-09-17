@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for internship in Web Developing **Web Developer**
 
-- 👨‍💻 All of my projects are available at [akashtharu.com.np](akashtharu.com.np)
+- 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📝 I regularly write articles on [akashtharu.com.np/blog](akashtharu.com.np/blog)
+- 📝 I regularly write articles on [akashtharu.com.np/blog](https://akashtharu.com.np//blog)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **akashtharu270@gmail.com**
 
-- 📄 Know about my experiences [akashtharu.com.np/resume](akashtharu.com.np/resume)
+- 📄 Know about my experiences [akashtharu.com.np/resume](https://akashtharu.com.np//resume)
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
 
