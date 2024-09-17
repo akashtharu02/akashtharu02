@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
-- 👨‍💻 Portfolio Website : [akashtharu.com.np](wwww.akashtharu.com.np)
+- 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
 - 🔭 I’m currently Studing **Diploma in Computer**
 
