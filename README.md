@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📝 I regularly write articles on [akashtharu.com.np/blog](https://akashtharu.com.np//blog)
+- 📝 I regularly write articles on [akashtharu/blog](https://akashtharu.com.np//blog)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **akashtharu270@gmail.com**
 
-- 📄 Know about my experiences [akashtharu.com.np/resume](https://akashtharu.com.np//resume)
+- 📄 Know about my experiences [akashtharu/resume](https://akashtharu.com.np//resume)
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
 
@@ -31,7 +31,7 @@
 <a href="https://instagram.com/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashtharu270" height="30" width="40" /></a>
 <a href="https://fb.com/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashthau270" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashtharu270" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.akashtharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.akashtharu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.akashtharu" height="30" width="40" /></a>
 <a href="https://twitter.com/twitter.akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.akashtharu270" height="30" width="40" /></a>
 </p> 
 
