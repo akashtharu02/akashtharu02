@@ -28,11 +28,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/akash.tharu.424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.tharu.424" height="30" width="40" /></a>
-<a href="https://fb.com/akashtharu.20602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashtharu.20602" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akashtharu424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashtharu424" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.akashtharu424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.akashtharu424" height="30" width="40" /></a>
-<a href="https://twitter.com/twitter.akashtharu424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.akashtharu424" height="30" width="40" /></a>
+<a href="https://instagram.com/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashtharu270" height="30" width="40" /></a>
+<a href="https://fb.com/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashthau270" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashtharu270" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.akashtharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.akashtharu" height="30" width="40" /></a>
+<a href="https://twitter.com/twitter.akashtharu270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.akashtharu270" height="30" width="40" /></a>
 </p> 
 
 
