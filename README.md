@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📝 I regularly write articles on [akashtharu/blog](https://akash424.com.np//blog)
+- 📝 I regularly write articles on [akash424.com.np](https://akash424.com.np//blog)
 
 - 💬 Ask me about **Web Development**
 
