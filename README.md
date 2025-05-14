@@ -1,4 +1,4 @@
-![logo](https://github.com/akashtharu02/akashtharu02/blob/main/bg2.jpg)
+![logo](https://github.com/akashtharu02/akashtharu02/blob/main/coverPic.jpeg)
 
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
 <h3 align="center">I am passionate Web Developer & Designer from Nepal</h3>
