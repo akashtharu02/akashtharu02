@@ -8,19 +8,17 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 🔭 I’m currently Studing **Diploma in Computer**
+- 🔭 I’m a **Diploma in Computer Engineering ** graduates
 
 - 🤝 I’m looking for internship in Web Developing **Web Developer**
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📝 I regularly write articles on [akash424.com.np](https://akash424.com.np//blog)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **akashtharu270@gmail.com**
 
-- 📄 Know about my experiences [akashtharu/resume](https://akashtharu.com.np//resume)
+
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
 
