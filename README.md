@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
-- 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
-
 - 🔭 I’m a **Diploma in Computer Engineering ** graduate
+
+- 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
 - 🤝 I’m looking for internship in Web Developing **Web Developer**
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
-
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **akashtharu270@gmail.com**
 
