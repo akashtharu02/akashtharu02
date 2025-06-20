@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 🔭 I’m a **Diploma in Computer Engineering ** graduates
+- 🔭 I’m a **Diploma in Computer Engineering ** graduate
 
 - 🤝 I’m looking for internship in Web Developing **Web Developer**
 
