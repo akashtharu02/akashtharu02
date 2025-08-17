@@ -1,7 +1,7 @@
 ![logo](https://github.com/akashtharu02/akashtharu02/blob/main/coverPic.jpeg)
 
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
-<h3 align="center">I am passionate Quality Assurance Analyst Nepal</h3>
+<h3 align="center">I am passionate **Quality Assurance Analyst** </h3>
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 🤝 I’m looking for internship in Quality Assurance **QA Analyst**
+- 🤝 I’m looking for internship as **QA Analyst**
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
