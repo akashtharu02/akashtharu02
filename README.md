@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
-- 🔭 I’m a **Diploma in Computer Engineering** graduate
+- 🔭 I’m a **Computer Engineering** graduate
+Looking for internship as **QA Analyst**
+
+- Conect With me at linkedin : **https://www.linkedin.com/in/akashchy/**
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 🤝 I’m looking for internship as **QA Analyst**
 
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
