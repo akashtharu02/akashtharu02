@@ -7,16 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
 - 🔭 I’m a **Computer Engineering** graduate
-Looking for internship as **QA Analyst**
-
-- Conect With me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
+- Looking for internship as **QA Analyst**
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
+- - Conect with me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
 
 - 📫 Mail me **codeak424@gmail.com**
-
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
 
