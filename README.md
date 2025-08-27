@@ -9,15 +9,13 @@
 - 🔭 I’m a **Computer Engineering** graduate
 Looking for internship as **QA Analyst**
 
-- Conect With me at linkedin : **https://www.linkedin.com/in/akashchy/**
+- Conect With me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-
 - 👨‍💻 All of my projects are available at [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📫 How to reach me **codeak424@gmail.com**
-
+- 📫 Mail me **codeak424@gmail.com**
 
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
