@@ -11,9 +11,10 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- - Conect with me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
-
 - 📫 Mail me **codeak424@gmail.com**
+
+- Conect with me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
+
 
 - ⚡ Fun fact **I am a serious person with some funs 😊😊**
 
