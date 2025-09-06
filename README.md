@@ -1,4 +1,4 @@
-![logo](https://github.com/akashtharu02/akashtharu02/blob/main/cover pic.png)
+![logo](https://github.com/akashtharu02/akashtharu02/blob/main/cover pic.jpg)
 
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
 <h3 align="center">Passionate about **Quality Assurance Analyst** </h3>
