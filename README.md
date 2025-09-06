@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📫 Mail me **codeak424@gmail.com**
+- 📫 Mail me **mail.akashtharu@gmail.com**
 
 - Conect with me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
 
