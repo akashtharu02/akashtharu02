@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
-- 📫 Mail me **mail.akashtharu@gmail.com**
+- 📫 Mail me **akash.tech424@gmail.com**
 
 - Conect with me at linkedin : [Akash Tharu](https://www.linkedin.com/in/akashchy/)
 
@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashtharu02&show_icons=true&locale=en&layout=compact" alt="akashtharu02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashtharu02&show_icons=true&locale=en" alt="akashtharu02" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashtharu02&show_icons=true&locale=en" alt="akashtharu02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashtharu02&" alt="akashtharu02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashtharu02&" alt="akashtharu02" /></p> -->
