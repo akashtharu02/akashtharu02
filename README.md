@@ -1,13 +1,13 @@
 ![logo](https://github.com/akashtharu02/akashtharu02/blob/main/coverpic.jpg)
 
 <h1 align="center">Hi 👋, I'm Akash Tharu</h1>
-<h3 align="center">Passionate about **Quality Assurance Analyst** </h3>
+<h3 align="center">Passionate about **Quality Assurance & Control** </h3>
 <img align="right"  width="400" src="https://sekoplas.com.my/wp-content/uploads/2022/10/QA_Animation_2000.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtharu02&label=Profile%20views&color=0e75b6&style=flat" alt="akashtharu02" /> </p>
 
 - 🔭 I’m a **Computer Engineering** graduate
-- Looking for  junior level QA Engineer Role**
+- Looking for  a junior level QA Engineer Role**
 
 - 👨‍💻 Portfolio Website : [akashtharu.com.np](https://akashtharu.com.np/)
 
